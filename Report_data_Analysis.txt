@@ -1,0 +1,61 @@
+Key Insights from Swiggy Dataset Analysis
+
+1. State-level Orders
+
+   - Karnataka has the highest number of orders.
+   - Sikkim has the lowest.
+   - A few states (Karnataka, Maharashtra, Telangana, Delhi, Tamil Nadu) dominate orders, showing concentration      in metro regions.
+
+2. City-level Trends
+
+   - Bengaluru tops in city-level orders.
+   - Orders are mostly concentrated in capital cities.
+
+3. Location Insights
+
+   - Gomti Nagar (Lucknow) has the most orders among all locations.
+   - Some locations like Faridabad have very few orders.
+
+4. Category Analysis
+
+   - “Recommended” category dominates orders.
+   - Many niche categories have very few orders (over 300 categories with just 1 order).
+
+5. Dish Preferences
+
+   - Most ordered dish: Choco Lava Cake.
+   - Other top dishes: Veg Fried Rice, Paneer Butter Masala, Chicken Sausage, Jeera Rice.
+
+6. Price Distribution
+
+   - Dish prices range from ₹0.95 (e.g., Tomato Ketchup) to ₹614 (premium pizzas/meals).
+   - Average dish price ~₹252.
+
+7. Ratings
+
+   - Ratings range 0 to 5.
+   - Large number of dishes have 0 rating (not rated).
+   - Common positive ratings: 4.3, 4.5, 4.6.
+
+8. Correlation Insights
+
+   - Price ↔ Rating: Weak negative correlation (higher price doesn’t guarantee higher ratings).
+   - Price ↔ Rating Count: Weak negative correlation.
+   - Rating ↔ Rating Count: Moderate positive correlation (popular dishes with more ratings tend to have higher ratings).
+
+9. Top-Rated Items
+
+   - Examples: Schweppes Water Bottle, Ice Americano Coffee, Korean Spice Mix (all rated 5.0).
+
+10. Most Reviewed Dish
+
+- “OB Chicken Tikka” at Yelahanka had the highest rating count.
+
+---
+
+ Business Value
+
+- Focus promotions on top-performing states and cities (Karnataka, Bengaluru).
+- Promote bestsellers like Choco Lava Cake across new markets.
+- Optimize pricing, as premium pricing doesn’t directly improve ratings.
+- Increase visibility of under-ordered categories/dishes to balance demand.
